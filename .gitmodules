@@ -1,0 +1,3 @@
+[submodule "practice/axios-prac"]
+	path = practice/axios-prac
+	url = https://github.com/vjiji/axios-prac.git
