@@ -1,5 +1,5 @@
-[submodule "practice/axios-prac"]
-	path = practice/axios-prac
+[submodule "axios-prac"]
+	path = axios-prac
 	url = https://github.com/vjiji/axios-prac.git
 [submodule "test"]
 	path = test
